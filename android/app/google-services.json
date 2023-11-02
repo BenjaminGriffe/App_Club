@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "552967099990",
+    "project_id": "cl-hub-b5634",
+    "storage_bucket": "cl-hub-b5634.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552967099990:android:3ac29fa905ec2c60de8df7",
+        "android_client_info": {
+          "package_name": "com.example.cl_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhv8Z5NTDVAFfZOlnFfVICT2otKVfLx0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
